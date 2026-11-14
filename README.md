@@ -4,8 +4,8 @@ This branch and GitHub Release contain the latest release APK for flavor **auro*
 
 - **Flavor**: `auro`
 - **APK Name**: `Auro-2.4.9.apk`
-- **Checksum (SHA-256)**: `fV97Z4g9yJZ0Rf2R1bEj9ascPhp3rEzIwuGUm898Sb0`
-- **Last Updated**: `2026-11-14 14:54:26`
+- **Checksum (SHA-256)**: `gIr46r-X60dH42Z7FTRx1uWKubQiEG9rGXC4Gy9jDpE`
+- **Last Updated**: `2026-11-14 14:58:54`
 
 ## App Location & Direct Release Download Links
 
