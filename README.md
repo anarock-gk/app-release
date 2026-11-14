@@ -4,8 +4,8 @@ This branch and GitHub Release contain the latest release APK for flavor **birla
 
 - **Flavor**: `birla`
 - **APK Name**: `Birla-2.4.9.apk`
-- **Checksum (SHA-256)**: `WbrqVfVesqtHvX7qCxL5Gv8en_cq15gu2DZ1iV7pQa0`
-- **Last Updated**: `2026-11-14 12:04:15`
+- **Checksum (SHA-256)**: `6J6QNE5z9GtlcK1Qg6SKJr0wAfMK7vp45HSPq35FXlk`
+- **Last Updated**: `2026-11-14 12:37:42`
 
 ## App Location & Direct Release Download Links
 
