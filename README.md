@@ -4,8 +4,8 @@ This branch and GitHub Release contain the latest release APK for flavor **mahin
 
 - **Flavor**: `mahindra`
 - **APK Name**: `Mahindra-2.4.9.apk`
-- **Checksum (SHA-256)**: `dxSPEdmSksW0elWdKPt7VJE0sriSlzgWpum9V_LGSVo`
-- **Last Updated**: `2026-11-14 13:12:22`
+- **Checksum (SHA-256)**: `TnkTg1MftmLRgN6SO1dN8UnUzwFiXjWPeUv4TfxcJB8`
+- **Last Updated**: `2026-11-14 13:26:12`
 
 ## App Location & Direct Release Download Links
 
