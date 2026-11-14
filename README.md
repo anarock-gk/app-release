@@ -4,8 +4,8 @@ This GitHub Release contains the latest release APK for flavor **acIn**.
 
 - **Flavor**: `acIn`
 - **APK Name**: `AcIn-2.5.1.apk`
-- **Checksum (SHA-256)**: `pDcpxJQOSBQPTU3ajRhrW-OTO3er9A-YpFV__v6gy1M`
-- **Last Updated**: `2026-11-14 18:08:01`
+- **Checksum (SHA-256)**: `dJZfHoUHXjTrqKXVgCVVVTYkDb_sEd1wkBuXwHxxGro`
+- **Last Updated**: `2026-11-15 00:09:09`
 
 ## Direct Release Download Link
 
