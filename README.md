@@ -1,22 +1,13 @@
 # App Release - purava
 
-This branch and GitHub Release contain the latest release APK for flavor **purava**.
+This GitHub Release contains the latest release APK for flavor **purava**.
 
 - **Flavor**: `purava`
-- **APK Name**: `Purava-2.4.9.apk`
-- **Checksum (SHA-256)**: `hTFDnu3y9i0wDHnhbvg-aLwj9tarlSrA3v5wdMkACfs`
-- **Last Updated**: `2026-11-14 16:58:27`
+- **APK Name**: `Purava-2.5.0.apk`
+- **Checksum (SHA-256)**: `vRKZ6UDG9qZjTcU1qaU8f1mjwUeNjqaDed1TVIDhDOs`
+- **Last Updated**: `2026-11-14 17:56:06`
 
-## App Location & Direct Release Download Links
+## Direct Release Download Link
 
-- **GitHub Release Direct APK (Recommended for Device Provisioning)**:
+- **GitHub Release Direct APK**:
   `https://github.com/anarock-gk/app-release/releases/download/purava-latest/app-release.apk`
-
-- **Branch Raw APK Link (Fallback)**:
-  `https://raw.githubusercontent.com/anarock-gk/app-release/purava/app-release.apk`
-
-- **Alternative Download Link**:
-  `https://github.com/anarock-gk/app-release/raw/purava/app-release.apk`
-
-- **Versioned File Link**:
-  `https://raw.githubusercontent.com/anarock-gk/app-release/purava/Purava-2.4.9.apk`
