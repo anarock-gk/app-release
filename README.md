@@ -4,8 +4,8 @@ This branch and GitHub Release contain the latest release APK for flavor **purav
 
 - **Flavor**: `purava`
 - **APK Name**: `Purava-2.4.9.apk`
-- **Checksum (SHA-256)**: `pqVa3rZybTZYg8hgPGSGDsguQLDw29w0JclcNzCiN5g`
-- **Last Updated**: `2026-11-14 16:43:42`
+- **Checksum (SHA-256)**: `hTFDnu3y9i0wDHnhbvg-aLwj9tarlSrA3v5wdMkACfs`
+- **Last Updated**: `2026-11-14 16:58:27`
 
 ## App Location & Direct Release Download Links
 
